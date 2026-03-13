@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenConversor</string>
+    <string name="conversor_de_unidades">CONVERSOR DE UNIDADES</string>
+    <string name="conversi_n_seleccionada">Conversión seleccionada</string>
+    <string name="ingrese_el_valor">Ingrese el valor</string>
+    <string name="unidad_1">Unidad 1</string>
+    <string name="convertir">Convertir →</string>
+    <string name="unidad_2">Unidad 2</string>
+    <string name="resultado">Resultado</string>
+</resources>
